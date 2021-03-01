@@ -4,6 +4,7 @@ dependencies:
 
 galaxy_info:
   author: geerlingguy
+  role_name: jenkins
   description: Jenkins CI
   company: "Midwestern Mac, LLC"
   license: "license (BSD, MIT)"
